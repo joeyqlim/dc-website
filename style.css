@@ -1,10 +1,20 @@
-/*body {
-	min-height: 100%;
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Paaji+2&display=swap');
+
+body {
+	font-family: "Baloo Paaji 2", sans-serif;
 }
-*/
 
 h1 {
 	padding-top: 2rem;
+}
+
+a {
+	color: darkblue;
+}
+
+a:hover {
+	text-decoration: none;
+	color: lightblue;
 }
 
 .content {
@@ -30,7 +40,7 @@ h1 {
 .footer {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: lightblue;
+  background-color: white;
 }
 
 #page-top {
@@ -46,11 +56,17 @@ h1 {
 }
 
 #about {
-	background-color: black;
+	background-color: lightblue;
 	color: white;
 }
 
 #contact {
-	background-color: black;
+	background-color: lightblue;
 	color: white;
+}
+
+#services-list {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
 }
