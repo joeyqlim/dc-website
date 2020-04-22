@@ -28,7 +28,7 @@ a:hover {
   width: 2rem;
   line-height: 2rem;
   font-size: 1rem;
-  background-color: lightblue;
+  background-color: #212529;
   color: white;
  }
 
@@ -41,6 +41,10 @@ a:hover {
   padding-top: 1rem;
   padding-bottom: 1rem;
   background-color: white;
+}
+
+.card-img-top {
+	max-height: 222px;
 }
 
 #page-top {
