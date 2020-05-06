@@ -1,2 +1,2 @@
 # dc-website
-A simple personal website and portfolio built with Bootstrap 4.
+A responsive, minimalist portfolio website built with the help of Bootstrap 4.
